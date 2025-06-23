@@ -43,6 +43,7 @@ cd backend
 pipx install . --include-deps
 ```
 *Note that I've adjusted to use pipx and added the --include-deps flag for my local arch environment*
+
 **Frontend:**
 
 ```bash
@@ -51,6 +52,7 @@ npm install
 npm run build
 ```
 *Note that I've added npm run build as a requirement for my local arch environment*
+
 **3. Run Development Servers:**
 
 **Backend & Frontend:**
